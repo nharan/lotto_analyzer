@@ -1,0 +1,12 @@
+[package]
+name = "lotto_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.29.1"
+eframe = "0.29.0"
+chrono = "0.4"
+plotters = "0.3"
+plotters-backend = "0.3"
+rand = "0.8"

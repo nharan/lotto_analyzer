@@ -1,0 +1,2 @@
+# lotto_analyzer
+ 
